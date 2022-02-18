@@ -2,7 +2,7 @@
 
 Comme React est tout au sujet de JavaScript. Dans ce projet, nous allons voir les principes de base de JavaScript qu'ils doivent maîtriser avant de vraiment se plonger dans React. Nous allons introduire les modèles JavaScript courants et des fonctionnalités de langage qui sont largement utilisés dans pratiquement toutes les applications React.
 
-## JavaScript ES6 et au-delà
+### JavaScript ES6 et au-delà
 ---
 La majeure partie se résume à JavaScript ES6 et au-delà :
 - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class)
@@ -15,7 +15,7 @@ La majeure partie se résume à JavaScript ES6 et au-delà :
 - [Switch statement](https://blog.logrocket.com/javascript-concepts-before-learning-react/)
 - [Object destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 - [Array destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
-- [Parameter defaults] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+- [Parameter defaults](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
 - [Spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [Rest operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
 - [Function declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
